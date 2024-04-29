@@ -52,4 +52,3 @@ print(alpha[1:3]) # saída: bd
 # não possuem o método append() nem o método insert()
 #----------------------------------------------------------------------------------------------
 '''OPERAÇÕES EM STRINGS'''
-
