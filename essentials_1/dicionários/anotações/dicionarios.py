@@ -28,9 +28,6 @@ empty_dictionary = {}
 print(dictionary) # {'cat': 'gato', 'dog': 'cachorro', 'horse': 'cavalo'}
 print(phone_numbers) # {'Felipe': 5551234567, 'Ingrid': 22657854310}
 print(empty_dictionary) # {}
-
-# dicionários não são listas - não preservam a ordem dos seus dados,uma vez que a ordem não tem qualquer significado.
-# A ordem em que um dicionário armazena os seus dados pode estar completamente fora do seu controle
 #------------------------------------------------------------------------------------------------------------------------
 '''COMO USAR UM DICIONÁRIO?'''
 
