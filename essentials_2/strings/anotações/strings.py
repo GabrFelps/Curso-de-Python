@@ -52,3 +52,14 @@ print(alpha[1:3]) # saída: bd
 # não possuem o método append() nem o método insert()
 #----------------------------------------------------------------------------------------------
 '''OPERAÇÕES EM STRINGS'''
+# A classe index() (é um método, não uma função) pesquisa a sequência desde o 
+# início, a fim de encontrar o primeiro elemento do valor especificado no seu argumento.
+print("aAbByYzZaA".index("b")) # saída: 2
+
+# list():
+# cria uma lista com cada caractere de uma string
+print(list("abcabc")) # saída: ['a', 'b', 'c', 'a', 'b', 'c']
+
+# A classe count() conta todas as ocorrências do elemento dentro da sequência. 
+# A ausência de tais elementos não causa problemas.
+print("abcabc".count("b")) # saída: 2
